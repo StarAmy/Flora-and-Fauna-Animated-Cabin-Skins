@@ -1,0 +1,10 @@
+{
+   "Name": "StarAmy's Flora and Fauna Animated Cabin Skins",
+   "Author": "StarAmy",
+   "Version": "1.0.0",
+   "Description": "New, themed cabin skins.",
+   "UniqueID": "Staramy.CabinSkins",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+}
